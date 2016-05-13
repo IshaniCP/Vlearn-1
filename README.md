@@ -2,12 +2,12 @@
 
 Voice Based Solution for Blind and Disabled 
 
-#OVERVIEW
+#Overview
 
 Vlearn - Learn better than you have vision. This system will help blind and disabled users to satisfy the day to day needs in the Internet. Nowadays they use Braille keyboards and screen readers. However, these solutions are not comfortable for this users. We are providing a voice based solution to use the internet easily for those people.
 For now, we are focusing on facebook, the largest social network popular among people. Later we are going to integrate this for many websites and web applications.
 
-#HOW TO USE
+#How to use
 
 We are going to create a backend to handle various APIs.
 Eg  Facebook graph API
