@@ -6,6 +6,7 @@ var appRouter = function(app) {
   { author : 'Neale Donald Walsch', text : "You are afraid to die, and you're afraid to live. What a way to exist."}
 ];
 
+
  app.get("/", function(req, res) {
      res.json(quotes);
 });
@@ -48,7 +49,6 @@ app.get('/quote/:id', function(req, res) {
 var q = quotes[req.params.id];
   res.json(q);
 });
-
 
 
 }
