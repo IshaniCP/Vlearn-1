@@ -16,5 +16,5 @@ Eg  Facebook graph API
 Each user has a account with his details. Age, Academic Status, Religion, Languages, and His interests. According to those interests, backend is interacting with other APIs and provide voice as a output.
 For now we are implementing simply login to facebook and get current notifications, read News Feed, Read Messages, etc. through the voice commands.
 Practically, integrate our system to every website is hard. So we have to make every website into a common architecture which mean those sites should have a common API. In future we will plan integrate Machine Learning and Neural networks and deep learning. So user can interact with the Internet like a normal person.
-Imagine you want to buy a T-shirt from Ebay but you are blind. But you are using Vlearn and you can hear every detail about T Shirts in the ebay and you can find a T-shirt with a perfect fit.
+Imagine you want to buy a T-shirt from Ebay but you are blind. But you are using Vlearn and you can hear every detail about T Shirts in the ebay and you can find a T-shirt with perfect fit.
 
